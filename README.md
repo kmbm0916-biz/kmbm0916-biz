@@ -15,7 +15,7 @@
  - Usually work front-end part
  - I interested at AI, Web and Design.
    - (Non-Technical)Business Administration, Economics, Real Estate, Photographic and Astrophysics.
- - I 
+ - I like taking photos. If you want to see the picture, please visit my <a href="https://www.instagram.com/rkdals916/">Instagram</a>.
  - My favorite wise saying is "정확하게 목표를 잡되, 확실히 관철하라.". 
     - In English "Set a goal exactly, but be sure to carry it through.".
     - (Actually, that's what I made up.😄)

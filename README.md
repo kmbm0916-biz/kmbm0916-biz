@@ -15,6 +15,10 @@
  - Usually work front-end part
  - I interested at AI, Web and Design.
    - (Non-Technical)Business Administration, Economics, Real Estate, Photographic and Astrophysics.
+ - I 
+ - My favorite wise saying is "정확하게 목표를 잡되, 확실히 관철하라.". 
+    - In English "Set a goal exactly, but be sure to carry it through.".
+    - (Actually, that's what I made up.😄)
  - I am CEO of <a href="https://github.com/ampcompany">HYOM</a>.
 
 ## Github-Stats

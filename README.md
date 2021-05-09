@@ -10,7 +10,7 @@
 
 
 ## I AM
- - I am attending Semyeong Computer High School.
+ - I' enrolled in Semyeong Computer High School.
  - I was born in 2003.
  - Usually work front-end part
  - I interested at AI, Web and Design.

@@ -2,10 +2,18 @@
   <img src="https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/179905840_309757300518446_5469109847997469314_n.jpg?tp=1&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=102&_nc_ohc=1ecOXwMggwcAX_wOjTb&edm=AP_V10EBAAAA&ccb=7-4&oh=033819d4c72b4e0993a3f649fb4d450d&oe=60BB6C06&_nc_sid=4f375e" width="50%">
 </div>
 
+## I AM
+ - I am attending Semyeong Computer High School.
+ - 19 year-old.
+ - Usually work front-end part
+ - I interested at AI, Web and Design.
+   - (Non-Technical)Business Administration, Economics, Real Estate, Photographic and Astrophysics.
+ - I am CEO of <a href="https://github.com/ampcompany">HYOM</a>.
+
 ## Github-Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmbm0916-biz&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/kmbm0916-biz/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmbm0916-biz&layout=compact&hide=jupyter_notebook)](https://github.com/kmbm0916-biz/github-readme-stats)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kmbm0916-biz&theme=radical&layout=compact&hide=&count_private=true&show_icons=true)
 
 ## Front-end Work
 ### Languages

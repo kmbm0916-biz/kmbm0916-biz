@@ -1,9 +1,9 @@
 # Introduce Myself
 <div style="margin : 0 auto;">
-  <a href="https://www.instagram.com/rkdals916/" target="blank">
+  <a href="https://www.instagram.com/rkdals916/" target="_blank">
     <img src="https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/223549024_1483921908621055_4345251944899183623_n.jpg?_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=107&_nc_ohc=CDs_7sdpVtAAX-6FWDT&tn=IWe2HdWnG41xj-5Y&edm=AP_V10EBAAAA&ccb=7-4&oh=76cacef0c452738f481e416eab909a19&oe=6174D45A&_nc_sid=4f375e" width="45%">
   </a>
-  <a href="https://www.instagram.com/rkdals916/" target="blank">
+  <a href="https://www.instagram.com/rkdals916/" target="_blank">
     <img src="https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/246719350_551652139261971_9107577470111209707_n.jpg?_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=TNz1GeJiH2gAX-BoyI1&edm=AP_V10EBAAAA&ccb=7-4&oh=a8242910dc27f4355613dd897bf384f0&oe=6174C6C9&_nc_sid=4f375e" width="45%">
   </a>
 </div>

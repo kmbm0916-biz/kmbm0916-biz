@@ -19,7 +19,8 @@
  - My favorite wise saying is "정확하게 목표를 잡되, 확실히 관철하라.". 
     - In English "Set a goal exactly, but be sure to carry it through.".
     - (Actually, that's what I made up.😄)
- - I am CEO of <a href="https://github.com/ampcompany">HYOM</a>.
+ - I was CEO of <a href="https://github.com/ampcompany">HYOM</a>.
+ - I am now CTO of <a href="https://github.com/StageNote-Team">StageNote</a>.
 
 ## Github-Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmbm0916-biz&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/kmbm0916-biz/github-readme-stats)

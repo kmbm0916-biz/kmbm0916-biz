@@ -26,7 +26,7 @@ Before Buchigo I led engineering as **CTO at StageNote** and founded **HYOM as C
 
 | Role | Organization | Period |
 | :--- | :--- | :--- |
-| **AI Engineer** | [Buchigo](https://github.com/buchigo) | Present |
+| **AI Engineer** | [Buchigo](https://github.com/buchigo) | Jul 2025 – Present |
 | **CTO** | [StageNote](https://github.com/StageNote-Team) | Aug 2024 – Oct 2025 |
 | **CEO** | [HYOM](https://github.com/ampcompany) | Mar 2021 – Dec 2022 |
 
@@ -43,7 +43,9 @@ Built **Charong** with team AppSense: a location-based app that surfaces restaur
 
 ## Education
 
-**A.S. in Artificial Intelligence** — Gyeonggi University of Science and Technology
+| Degree | Institution | Period |
+| :--- | :--- | :--- |
+| **A.S. in Artificial Intelligence** | Gyeonggi University of Science and Technology | Mar 2022 – Dec 2025 |
 
 <br />
 
@@ -77,7 +79,6 @@ Built **Charong** with team AppSense: a location-based app that surfaces restaur
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 

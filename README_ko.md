@@ -6,50 +6,50 @@
 
 <br />
 
-**English** &nbsp;·&nbsp; [한국어](README_ko.md)
+[English](README.md) &nbsp;·&nbsp; **한국어**
 
 </div>
 
 <br />
 
-## About
+## 소개
 
-I'm an AI Engineer based in Seoul, Republic of Korea.
+서울에서 일하는 AI 엔지니어입니다.
 
-I build **LLM-powered automation** — systems where language models do real work rather than demos. I started out frontend-focused and grew into full-stack, and these days most of my time goes to agent tooling: MCP servers, LLM SDKs, and workflow automation that runs unattended.
+**LLM 기반 자동화**를 만듭니다. 데모가 아니라 실제로 일을 하는 시스템이요. 프론트엔드로 시작해 풀스택으로 넓혔고, 요즘은 대부분의 시간을 에이전트 툴링에 씁니다. MCP 서버, LLM SDK, 그리고 사람 손을 타지 않고 돌아가는 워크플로 자동화요.
 
-Before Buchigo I led engineering as **CTO at StageNote** and founded **HYOM as CEO**, so I've built teams and companies as well as products.
+Buchigo 이전에는 **StageNote에서 CTO로** 엔지니어링을 이끌었고, **HYOM을 CEO로** 창업했습니다. 제품뿐 아니라 팀과 회사를 만들어 본 경험이 있습니다.
 
 <br />
 
-## Experience
+## 경력
 
-| Role | Organization | Period |
+| 직함 | 소속 | 기간 |
 | :--- | :--- | :--- |
-| **AI Engineer** | [Buchigo](https://github.com/buchigo) | Present |
-| **CTO** | [StageNote](https://github.com/StageNote-Team) | Aug 2024 – Oct 2025 |
-| **CEO** | [HYOM](https://github.com/ampcompany) | Mar 2021 – Dec 2022 |
+| **AI Engineer** | [Buchigo](https://github.com/buchigo) | 재직 중 |
+| **CTO** | [StageNote](https://github.com/StageNote-Team) | 2024.08 – 2025.10 |
+| **CEO** | [HYOM](https://github.com/ampcompany) | 2021.03 – 2022.12 |
 
 <br />
 
-## Award
+## 수상
 
-> ### 🏆 IBM Call for Code — APEC 1st Place
-> **IBM** · August 2021
+> ### 🏆 IBM Call for Code — APEC 1위
+> **IBM** · 2021년 8월
 
-Built **Charong** with team AppSense: a location-based app that surfaces restaurants and retailers offering packaging and delivery in **reusable containers** — making sustainable consumption the default choice rather than an effort.
-
-<br />
-
-## Education
-
-**A.S. in Artificial Intelligence** — Gyeonggi University of Science and Technology
+AppSense 팀으로 **차롱(Charong)** 을 만들었습니다. **다회용기**로 포장·배달하는 음식점과 매장을 위치 기반으로 찾아주는 앱으로, 지속가능한 소비를 애써야 하는 일이 아니라 기본 선택지로 만드는 것이 목표였습니다.
 
 <br />
 
-## Tech Stack
+## 학력
 
-#### AI & Automation
+**인공지능과 전문학사** — 경기과학기술대학교
+
+<br />
+
+## 기술 스택
+
+#### AI & 자동화
 
 <p>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
@@ -57,7 +57,7 @@ Built **Charong** with team AppSense: a location-based app that surfaces restaur
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
-#### Languages
+#### 언어
 
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -66,14 +66,14 @@ Built **Charong** with team AppSense: a location-based app that surfaces restaur
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
 </p>
 
-#### Frontend
+#### 프론트엔드
 
 <p>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </p>
 
-#### Backend & Infrastructure
+#### 백엔드 & 인프라
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -83,11 +83,11 @@ Built **Charong** with team AppSense: a location-based app that surfaces restaur
 
 <br />
 
-## Projects
+## 프로젝트
 
 ### [Graph-Knowledge-AI (gkai)](https://github.com/kmbm0916-biz/Graph-Knowledge-AI)
 
-Records **every execution event** from a Claude Code agent into a local graph database, makes it observable through a web visualizer, and feeds it back via MCP tools so the agent can reuse its own past context. Ships 6 hooks, 12 MCP recall tools, a KuzuDB projection layer, and cross-platform installers with daemon autostart.
+Claude Code 에이전트의 **모든 실행 이벤트**를 로컬 그래프 DB에 기록하고, 웹 시각화로 관찰하며, MCP 툴을 통해 AI가 자신의 과거 컨텍스트를 다시 꺼내 쓰게 만드는 시스템입니다. 훅 6개, MCP recall 툴 12개, KuzuDB 프로젝션 레이어, 그리고 데몬 자동기동까지 포함한 크로스플랫폼 인스톨러로 구성돼 있습니다.
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -98,7 +98,7 @@ Records **every execution event** from a Claude Code agent into a local graph da
 
 ### [gr8diy](https://github.com/kmbm0916-biz/gr8diy)
 
-A **multi-exchange cryptocurrency trading platform** built test-first. Extensible strategy layer with a TDD sub-agent system driving development.
+테스트를 먼저 쓰고 만든 **다중 거래소 암호화폐 자동매매 플랫폼**입니다. 확장 가능한 전략 레이어와, 개발을 이끄는 TDD 서브에이전트 시스템을 갖췄습니다.
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -107,7 +107,7 @@ A **multi-exchange cryptocurrency trading platform** built test-first. Extensibl
 
 ### [Map_search](https://github.com/kmbm0916-biz/Map_search)
 
-Pathfinding algorithms rendered into an interactive web visualizer, so the search behaviour is something you can watch rather than infer.
+경로 탐색 알고리즘을 인터랙티브 웹 시각화로 옮긴 프로젝트입니다. 탐색 과정을 머릿속으로 추론하는 대신 눈으로 볼 수 있게 만들었습니다.
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -117,17 +117,17 @@ Pathfinding algorithms rendered into an interactive web visualizer, so the searc
 
 <br />
 
-## Languages
+## 언어
 
-| Language | Proficiency |
+| 언어 | 수준 |
 | :--- | :--- |
-| **Korean** | Native |
-| **Japanese** | Conversational |
-| **English** | Basic conversational |
+| **한국어** | 원어민 |
+| **일본어** | 의사소통 가능 |
+| **영어** | 생활소통 가능 |
 
 <br />
 
-## Connect
+## 연락
 
 <p>
 <a href="https://www.linkedin.com/in/kang-min-kim-379544342/">
@@ -140,13 +140,13 @@ Pathfinding algorithms rendered into an interactive web visualizer, so the searc
 
 <!--
   ── GitHub Stats ──────────────────────────────────────────────────────────
-  Intentionally disabled. The public github-readme-stats instance is
-  currently DEPLOYMENT_PAUSED, and it can only count public repos — which
-  would report "Jupyter Notebook" as the top language and hide the actual
-  TypeScript/Python work sitting in private repos.
+  의도적으로 비활성화. 공개 github-readme-stats 인스턴스가 현재
+  DEPLOYMENT_PAUSED 상태이고, 공개 레포만 집계하기 때문에 최상위 언어가
+  "Jupyter Notebook"으로 표시되며 private 레포의 실제 TypeScript/Python
+  작업이 드러나지 않음.
 
-  To enable, self-host github-readme-stats with a PAT, replace
-  YOUR-INSTANCE below with your own Vercel domain, and uncomment.
+  활성화하려면 PAT를 붙여 self-host한 뒤 아래 YOUR-INSTANCE를 본인
+  Vercel 도메인으로 교체하고 주석을 해제할 것.
 
 <div align="center">
   <img src="https://YOUR-INSTANCE.vercel.app/api?username=kmbm0916-biz&show_icons=true&count_private=true&hide_border=true&title_color=6E7FF3&icon_color=9D6EF3&theme=transparent" alt="GitHub Stats" />

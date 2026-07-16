@@ -97,15 +97,6 @@ Records **every execution event** from a Claude Code agent into a local graph da
 <img src="https://img.shields.io/badge/KuzuDB-F26522?style=flat-square" alt="KuzuDB" />
 </p>
 
-### [gr8diy](https://github.com/kmbm0916-biz/gr8diy)
-
-A **multi-exchange cryptocurrency trading platform** built test-first. Extensible strategy layer with a TDD sub-agent system driving development.
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/TDD-25A162?style=flat-square" alt="TDD" />
-</p>
-
 ### [Map_search](https://github.com/kmbm0916-biz/Map_search)
 
 Pathfinding algorithms rendered into an interactive web visualizer, so the search behaviour is something you can watch rather than infer.

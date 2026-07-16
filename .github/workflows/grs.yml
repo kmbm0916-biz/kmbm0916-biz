@@ -33,11 +33,16 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GRS_PAT }}
 
+      # GRS ranks languages by bytes, and .ipynb files carry their base64 output
+      # images inline, so a handful of 2021 practice repos outweigh everything
+      # since. Unfiltered the card reads Jupyter Notebook 55% / TypeScript 2.4%.
+      # The four excluded repos are 16.7 MB of a ~23 MB account. Jupyter/HTML/CSS
+      # are hidden for the same reason: they measure file size, not what I build.
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=kmbm0916-biz&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=transparent&title_color=6E7FF3
+          options: username=kmbm0916-biz&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=transparent&title_color=6E7FF3&exclude_repo=3D_Graphtool_Plotly_Practice,2021School,Playing_data,Python_WordCloud&hide=jupyter%20notebook,html,css
           path: profile/top-langs.svg
           token: ${{ secrets.GRS_PAT }}
 

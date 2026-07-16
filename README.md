@@ -130,20 +130,15 @@ Pathfinding algorithms rendered into an interactive web visualizer, so the searc
 </a>
 </p>
 
-<!--
-  ── GitHub Stats ──────────────────────────────────────────────────────────
-  Intentionally disabled. The public github-readme-stats instance is
-  currently DEPLOYMENT_PAUSED, and it can only count public repos — which
-  would report "Jupyter Notebook" as the top language and hide the actual
-  TypeScript/Python work sitting in private repos.
+<br />
 
-  To enable, self-host github-readme-stats with a PAT, replace
-  YOUR-INSTANCE below with your own Vercel domain, and uncomment.
+## GitHub Stats
+
+<!-- Rendered by .github/workflows/grs.yml and committed as static SVGs. -->
 
 <div align="center">
-  <img src="https://YOUR-INSTANCE.vercel.app/api?username=kmbm0916-biz&show_icons=true&count_private=true&hide_border=true&title_color=6E7FF3&icon_color=9D6EF3&theme=transparent" alt="GitHub Stats" />
-  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=kmbm0916-biz&layout=compact&count_private=true&hide_border=true&title_color=6E7FF3&theme=transparent" alt="Top Languages" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </div>
--->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D6EF3,100:6E7FF3&height=120&section=footer" width="100%" alt="" />

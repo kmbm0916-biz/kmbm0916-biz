@@ -1,0 +1,50 @@
+name: Update README cards
+
+# The public github-readme-stats instance is unreliable (it has been returning
+# DEPLOYMENT_PAUSED since April 2026 — anuraghazra/github-readme-stats#4867), so
+# the cards are rendered here and committed as static SVGs instead. Nothing is
+# fetched from a third-party host when someone views the profile.
+#
+# GRS only counts public repos unless it is given a token that can see more.
+# GRS_PAT must be a *classic* PAT with the `repo` and `read:user` scopes — a
+# fine-grained token reports public commits only, which would leave the cards
+# showing Jupyter Notebook on top while the real TypeScript/Python work sits in
+# private repos.
+
+on:
+  schedule:
+    - cron: "0 18 * * *" # 03:00 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=kmbm0916-biz&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=6E7FF3&icon_color=9D6EF3
+          path: profile/stats.svg
+          token: ${{ secrets.GRS_PAT }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=kmbm0916-biz&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=transparent&title_color=6E7FF3
+          path: profile/top-langs.svg
+          token: ${{ secrets.GRS_PAT }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --staged --quiet || git commit -m "Update README cards [skip ci]"
+          git push
